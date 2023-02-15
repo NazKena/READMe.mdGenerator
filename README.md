@@ -2,18 +2,18 @@
 
 I have created a README.md generator using Node and inquirer. It works by promting the user to answer any relevant questions regarding their project such as the title, installation, usage, license, contributer and testing instructions questions. It will also ask for an email address and github link. Once all this is completed, a quality README.md file will be generated. 
 
-## Table of Contents 
+# Table of Contents 
 
-# Installation Instructions
+### Installation Instructions
 
-# Usage Information
+### Usage Information
 
-# Contributers
+### Contributers
 
-# License
+### License
 
-# Tests
+### Tests
 
-# Questions
+### Questions
 
 
