@@ -4,16 +4,42 @@ I have created a README.md generator using Node and inquirer. It works by promti
 
 # Table of Contents 
 
-### Installation Instructions
+ - [Installation](#installation-process)
 
-### Usage Information
+-  [Usage Information](#Usage)
 
-### Contributers
+- [Contributers](#contributers)
 
-### License
+- [License](#license)
 
-### Tests
+-  [Tests](#tests)
 
-### Questions
+-  [Questions](#questions)
 
+- [Emails](#email)
+
+- [GitHub](#github-link)
+
+-[ScreenShot](#screenshot)
+
+
+## Installation Process
+
+## Usage Informations
+
+## Contributers 
+
+## License 
+
+## Tests 
+
+## Questions
+
+## Email
+
+## GitHub Link
+
+## ScreensShot 
+
+![Screenshot](./Images/Screenshot%202023-02-15%20at%2017.22.51.png) 
 
