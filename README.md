@@ -51,7 +51,7 @@ Use my github link if there are any questions
 
 ## Screen Recording
 
-![ScreenRecording](./Images/Screen%20Recording%202023-02-15%20at%2017.16.44.mov)
+## ScreenRecording[https://drive.google.com/file/d/1vo9FcYeT-M1t5dBRBe3acPm6a6CFBEwH/view?usp=share_link]
 
 ## GitHub Link [https://github.com/NazKena/READMe.mdGenerator]
 
