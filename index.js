@@ -36,7 +36,7 @@ const questions = [
 {
     type: "input",
     name: "Table of Contents",
-    message: "Give a brief description about your project",
+    message: "List your table of contents here",
 },
 {
     type: "input",
@@ -52,11 +52,6 @@ const questions = [
     type: "input",
     name: "Email Address",
     message: "What is your email address?",
-},
-{
-    type: "input",
-    name: "Description",
-    message: "Give a brief description about your project",
 },
 {
     type: "input",
