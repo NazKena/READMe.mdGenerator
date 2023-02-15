@@ -1,24 +1,14 @@
 {
-  "name": "readme.mdgenerator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "generating a README.md file using node and inquirer ",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NazKena/READMe.mdGenerator.git"
-  },
-  "keywords": [],
-  "author": "nuseyba",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NazKena/READMe.mdGenerator/issues"
-  },
-  "homepage": "https://github.com/NazKena/READMe.mdGenerator#readme",
   "dependencies": {
-    "inquirer": "^8.2.5",
-    "install": "^0.13.0"
+    "inquirer": "8.2.4"
   }
 }
