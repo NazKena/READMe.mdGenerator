@@ -6,40 +6,52 @@ I have created a README.md generator using Node and inquirer. It works by promti
 
  - [Installation](#installation-process)
 
--  [Usage Information](#Usage)
+-  [Usage Information](#usage-information)
 
 - [Contributers](#contributers)
 
 - [License](#license)
 
--  [Tests](#tests)
+- [Tests](#tests)
 
--  [Questions](#questions)
-
-- [Emails](#email)
+- [Questions](#questions)
 
 - [GitHub](#github-link)
 
--[ScreenShot](#screenshot)
+- [ScreenShot](#screenshot)
+
+- [Screen-Recording](#screen-recording)
 
 
 ## Installation Process
 
-## Usage Informations
+I used both inquirer and node to generate a README.md file.
+
+## Usage Information
+
+It will make the creation of a README.md file so much easier when users use node and it will automaticaly generate 
 
 ## Contributers 
+
+No contributers
 
 ## License 
 
 ## Tests 
 
+No testing required
+
 ## Questions
 
-## Email
+Use my github link if there are any questions
 
-## GitHub Link
-
-## ScreensShot 
+## Screenshot 
 
 ![Screenshot](./Images/Screenshot%202023-02-15%20at%2017.22.51.png) 
+
+## Screen Recording
+
+![ScreenRecording](./Images/Screen%20Recording%202023-02-15%20at%2017.16.44.mov)
+
+## GitHub Link [https://github.com/NazKena/READMe.mdGenerator]
 
