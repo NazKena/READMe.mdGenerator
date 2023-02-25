@@ -28,10 +28,10 @@ const questions = [
     message: "Describe your installation instructions",
 },    
 {
-    type: "input",
+    type: "list",
     name: "License",
     message: "What is the license of your project?",
-    choices: ["MIT", "ISC","APACHE 2.0","NO LICENSE", "GNU"],
+    choices: ["MIT", "ISC","APACHE 2.0","NO LICENSE", "GNU"]
 },
 {
     type: "input",
